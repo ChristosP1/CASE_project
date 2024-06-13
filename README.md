@@ -19,7 +19,7 @@ pip install -r requirements.txt
 - After completion, set CPA = True and run all cells again.
 
 ### 2. Open and Run the statistical_analysis Notebook
-- Open the statistical_analysis.ipynb notebook in Jupyter.
+- Open the case1_statistical_analysis.ipynb notebook in Jupyter.
 
 - Set CPA = False and run all cells.
 
