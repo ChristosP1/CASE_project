@@ -12,15 +12,15 @@ pip install -r requirements.txt
 ## Steps to Run the Code
 ### 1. Open and Run the case1_preprocessing Notebook
 
-Open the case1_preprocessing.ipynb notebook in Jupyter.
+- Open the case1_preprocessing.ipynb notebook in Jupyter.
 
-Set CPA = False and run all cells.
+- Set CPA = False and run all cells.
 
-After completion, set CPA = True and run all cells again.
+- After completion, set CPA = True and run all cells again.
 
 ### 2. Open and Run the statistical_analysis Notebook
-Open the statistical_analysis.ipynb notebook in Jupyter.
+- Open the statistical_analysis.ipynb notebook in Jupyter.
 
-Set CPA = False and run all cells.
+- Set CPA = False and run all cells.
 
-After completion, set CPA = True and run all cells again.
+- After completion, set CPA = True and run all cells again.
