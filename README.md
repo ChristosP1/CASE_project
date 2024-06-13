@@ -1,7 +1,10 @@
 # CASE Data Preprocessing and Analysis
 <p align="center">
-  <img src="git_images/data_acquisition.png" alt="Experiment setup">
+  <img src="readme_images/data_acquisition.png" alt="Experiment setup">
 </p>
+
+Presentation video of experiment setup:
+[Link text](https://youtu.be/-avJuYvJ5Aw)
 
 ## Overview
 This repository contains the code for preprocessing and analyzing the CASE dataset. Follow the steps below to execute the code in the provided Jupyter notebooks.
