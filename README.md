@@ -39,7 +39,7 @@ source case1_project_env/bin/activate
 git clone https://github.com/ChristosP1/CASE_project.git
 cd CASE_project
 ```
-### Make sure you have the necessary dependencies installed. You can install them using the following command:
+Make sure you have the necessary dependencies installed. You can install them using the following command:
 ```bash
 pip install -r requirements.txt
 ```
