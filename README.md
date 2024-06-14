@@ -32,3 +32,6 @@ pip install -r requirements.txt
 - Set CPA = False and run all cells.
 
 - After completion, set CPA = True and run all cells again.
+
+### Note1: the CASE dataset top folder must be in the same directory as the notebooks (or adjust location in first lines)
+### Note2: the preprocessed files have already been created for convenience. However if something goes wrong, the safest option would be to delete the preproceseed folder and recreate everything. Please keep in mind that CPA takes too long (>20 min), so not recommended :)
