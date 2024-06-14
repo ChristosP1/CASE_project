@@ -12,6 +12,11 @@ IMPORTANT: The statistical_analysis notebook is very big because it is meant to 
 
 
 ## Prerequisites
+It is recommended to create a clean Python environment
+#### With Conda
+```bash
+conda create -n myenv python
+```
 Clone the repository
 ```bash
 git clone https://github.com/ChristosP1/CASE_project.git
@@ -21,6 +26,39 @@ Make sure you have the necessary dependencies installed. You can install them us
 ```bash
 pip install -r requirements.txt
 ```
+
+
+### Environment Setup
+It is recommended to create a clean Python environment
+#### Using Conda
+```bash
+conda create -n case1_project_env python
+conda activate case1_project_env
+```
+
+#### Using Python venv
+```bash
+python -m venv case1_project_env
+```
+##### Windows
+```bash
+case1_project_env\Scripts\activate
+```
+##### Unix/MacOS
+```bash
+source case1_project_env/bin/activate
+```
+
+### Clone the repository
+```bash
+git clone https://github.com/ChristosP1/CASE_project.git
+cd CASE_project
+```
+### Make sure you have the necessary dependencies installed. You can install them using the following command:
+```bash
+pip install -r requirements.txt
+```
+
 
 ## Steps to Run the Code
 ### 1. Open and Run the case1_preprocessing Notebook
