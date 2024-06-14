@@ -1,11 +1,13 @@
 numpy
 pandas
 matplotlib
+openpyxl
 ruptures
 neurokit2
 statsmodels
 seaborn
 scipy
 pingouin
+
 
 
