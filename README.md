@@ -3,7 +3,7 @@
   <img src="readme_images/data_acquisition.png" alt="Experiment setup">
 </p>
 
-(ORIGINAL) Presentation video of experiment setup:
+(ORIGINAL, as in made by us) Presentation video of experiment setup:
 [Link text](https://youtu.be/-avJuYvJ5Aw)
 
 ## Overview
