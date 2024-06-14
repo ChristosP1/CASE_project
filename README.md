@@ -25,11 +25,11 @@ conda activate case1_project_env
 ```bash
 python -m venv case1_project_env
 ```
-##### Windows
+Windows
 ```bash
 case1_project_env\Scripts\activate
 ```
-##### Unix/MacOS
+Unix/MacOS
 ```bash
 source case1_project_env/bin/activate
 ```
