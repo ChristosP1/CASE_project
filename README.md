@@ -8,8 +8,14 @@
 
 ## Overview
 This repository contains the code for preprocessing and analyzing the CASE dataset. Follow the steps below to execute the code in the provided Jupyter notebooks.
-IMPORTANT: The statistical_analysis notebook is very big because it is meant to be used with a table of contents. Please consider opening the notebook in an environment that supports this functionality, for easier navigation.
 
+**IMPORTANT**: The statistical_analysis notebook is very big because it is meant to be used with a table of contents. Please consider opening the notebook in an environment that supports this functionality, for easier navigation. We recommend installing jupyter.
+
+Inside your virtual environment
+```bash
+pip install jupyter
+jupyter notebook
+```
 
 ## Prerequisites
 
